@@ -1,0 +1,23 @@
+{
+  "name": "quack",
+  "version": "1.0.0",
+  "description": "Quack Quack Game Tools",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "easytimer.js": "^4.6.0",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "random-useragent": "^0.5.0",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.13.0"
+  }
+}
